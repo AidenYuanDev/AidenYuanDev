@@ -12,8 +12,6 @@
 
 - [starry](https://github.com/AidenYuanDev/starry) — A C++ network library modernizing [muduo](https://github.com/chenshuo/muduo) with C++17/20 (Reactor pattern, epoll, protobuf-based RPC, async logging)
 - [StarryChat](https://github.com/AidenYuanDev/StarryChat) — A chat server built on starry, with MariaDB connection pooling and Redis caching
-- [design_patterns_in_modern_Cpp_20](https://github.com/AidenYuanDev/design_patterns_in_modern_Cpp_20) — Notes & errata for *Design Patterns in Modern C++20*
-- Fundamentals practice: [TinyWebServer](https://github.com/AidenYuanDev/TinyWebServer) · [Thread_Pool](https://github.com/AidenYuanDev/Thread_Pool) · [database_connect_pool](https://github.com/AidenYuanDev/database_connect_pool)
 
 ## Favorite Tech
 > Tools, languages, and other things that I like to work with.
