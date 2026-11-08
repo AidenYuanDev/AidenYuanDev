@@ -10,6 +10,7 @@
 
 ## 🔧 Projects
 
+- [rooftree](https://github.com/AidenYuanDev/rooftree) — A C++20 server framework (coroutine networking, PostgreSQL, schedulers, logging) with a bilingual blog and a multiplayer game running on top
 - [starry](https://github.com/AidenYuanDev/starry) — A C++ network library modernizing [muduo](https://github.com/chenshuo/muduo) with C++17/20 (Reactor pattern, epoll, protobuf-based RPC, async logging)
 - [StarryChat](https://github.com/AidenYuanDev/StarryChat) — A chat server built on starry, with MariaDB connection pooling and Redis caching
 
